@@ -18,39 +18,39 @@ autotest tutorial text0QcE45
 - Prerequisute2
 - Prerequisute3
 
-[ACCORDION-BEGIN [](Exact match rule)]
+[ACCORDION-BEGIN [STEP 1](Exact match rule)]
 [VALIDATE_1]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](Regex Sub-string)]
+[ACCORDION-BEGIN [STEP 2](Regex Sub-string)]
 [VALIDATE_2]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](Regex begins with)]
+[ACCORDION-BEGIN [STEP 3](Regex begins with)]
 [VALIDATE_3]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](Regex with id Exact Match)]
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)]
 [VALIDATE_4]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](http-status-check 404)]
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)]
 [VALIDATE_5]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](http-status-check 301, 401)]
+[ACCORDION-BEGIN [STEP 6](http-status-check 301, 401)]
 [VALIDATE_6]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](Single choice)]
+[ACCORDION-BEGIN [STEP 7](Single choice)]
 [VALIDATE_7]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](Multiple choice)]
+[ACCORDION-BEGIN [STEP 8](Multiple choice)]
 [VALIDATE_8]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [](http-status-check 200)]
+[ACCORDION-BEGIN [STEP 9](http-status-check 200)]
 [VALIDATE_9]
 [ACCORDION-END]
 
